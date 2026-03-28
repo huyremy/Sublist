@@ -13,13 +13,13 @@ List subdomain tools @ Matilda.vn
 11. https://dich.matilda.vn ( Trình biên dịch, dịch thuật đa ngôn ngữ )
 12. https://facebook.matilda.vn  (Download file video từ Facebook)
 13. https://vmail.matilda.vn ( Tạo virtual Email dùng để nhận mail)
-14. https://computer.matilda.vn ( Computer Linux Ubuntu Cloud )
+14. https://odd.matilda.vn ( Kèo độ trước trận tiêu chuẩn: Bóng Đá) 
 15. https://sandbox.matilda.vn ( PHP Mini Sandbox, công cụ lập trình PHP và lưu trữ thẳng vào Github )
 16. https://blog.matilda.vn ( Blog - Những bài viết hay )
 17. https://search.matilda.vn ( Search Engine Monava )
 18. https://meta.matilda.vn ( Nhúng 2 file ảnh vào 1 file ảnh (beta) )
 19. https://xs.matilda.vn ( AI Dự đoán xổ số miền Bắc )
 20. https://sports.matilda.vn (LiveScore thể thao các môn)
-21. https://odd.matilda.vn ( Kèo độ trước trận tiêu chuẩn: Bóng Đá) 
+21. https://computer.matilda.vn ( Shell Linux Cloud )
 -----
 # Power by HuyRemy - Since 2022 - https://matilda.vn
