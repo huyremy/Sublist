@@ -3,7 +3,7 @@ List subdomain tools @ Matilda.vn
 1. https://ai.matilda.vn ( AI Assistant)
 2. https://ea.matilda.vn ( Nhúng sóng âm vào file nhạc )
 3. https://am.matilda.vn ( Bảo vệ bản quyền tranh, tác phẩm nghệ thuật )
-4. https://br.matilda.vn ( Trình duyệt terminal - Mini Browser )
+4. https://br.matilda.vn ( Trình duyệt web - Mini Browser )
 5. https://upload.matilda.vn ( Chia sẻ file không giới hạn )
 6. https://test.matilda.vn ( Thước đo chất lượng internet )
 7. https://tivi.matilda.vn ( Đài truyền hình )
