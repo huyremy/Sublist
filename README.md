@@ -21,6 +21,7 @@ List subdomain tools @ https://matilda.vn
 19. https://xs.matilda.vn ( AI Dự đoán xổ số miền Bắc )
 20. https://sports.matilda.vn (LiveScore thể thao các môn)
 21. https://satteline.matilda.vn (Map Wifi Free Updated)
+22. https://dl.matilda.vn (Download video, clip ở tất cả các mạng xã hội Facebook, X, Tiktok...1000++ tất cả các kênh trên thế giới)
 -----
 Một chút về cơ sở hạ tầng Hệ thống Matilda.VN:
 
