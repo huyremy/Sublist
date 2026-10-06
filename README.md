@@ -3,7 +3,7 @@ List subdomain tools @ https://matilda.vn
 1. https://ai.matilda.vn ( AI Assistant)
 2. https://ea.matilda.vn ( Nhúng sóng âm vào file nhạc )
 3. https://am.matilda.vn ( Bảo vệ bản quyền tranh, tác phẩm nghệ thuật )
-4. https://br.matilda.vn ( Trình duyệt web - Mini Browser )
+4. https://br.matilda.vn ( Trình duyệt web Proxy )
 5. https://upload.matilda.vn ( Chia sẻ file không giới hạn )
 6. https://test.matilda.vn ( Thước đo chất lượng internet )
 7. https://tivi.matilda.vn ( Đài truyền hình )
@@ -23,18 +23,25 @@ List subdomain tools @ https://matilda.vn
 21. https://satteline.matilda.vn (Map Wifi Free Updated)
 22. https://dl.matilda.vn (Download video, clip ở tất cả các mạng xã hội Facebook, X, Tiktok...1000++ tất cả các kênh trên thế giới)
 23. Matilda Mini Browser (Xem youtube không quảng cáo : https://github.com/huyremy/Matilda-Mini-Browser )
+24. https://chessfly.matilda.vn (Cờ ruồi Game)
+25. https://hidden.matilda.vn ( Tools kiểm tra tương thích phần cứng với LLM Local )
+26. https://echop.matilda.vn ( Bắn máy bay Game )
 -----
 Một chút về cơ sở hạ tầng Hệ thống Matilda.VN:
 
+Workshop:
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ae252fbf-2916-473c-b942-440f8d4ebfac" />
 
 ---
+Server:
 
-Gemini dọn dẹp lại:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2f0de192-db0d-4490-90c9-aa138b14120a" />
 
 ---
+Network:
 
-<img width="842" height="1264" alt="image" src="https://github.com/user-attachments/assets/31301279-a003-422b-be6d-5d01a847c848" />
+<img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/471a6b79-1bbd-410e-8abf-764e0286a5e0" />
+
 
 ---
 Grok dọn dẹp lại:
