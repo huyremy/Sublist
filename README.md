@@ -25,6 +25,7 @@ List subdomain tools @ https://matilda.vn
 23. https://chessfly.matilda.vn (Cờ ruồi Game)
 24. https://hidden.matilda.vn ( Tool kiểm tra tương thích phần cứng với LLM Local )
 25. https://echop.matilda.vn ( Bắn máy bay Game )
+26. https://xau-jev.streamlit.app ( Công cụ hỗ trợ trading XAU Forex)
 -----
 Một chút về cơ sở hạ tầng Hệ thống Matilda.VN:
 
